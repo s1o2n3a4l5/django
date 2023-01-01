@@ -1,1 +1,1 @@
-# django
+# django (email-password) authentication 
