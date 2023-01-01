@@ -1,1 +1,0 @@
-# django (email-password) authentication 
